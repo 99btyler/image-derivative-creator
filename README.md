@@ -4,7 +4,6 @@
 Get this project set up locally
 ### Prerequisites
 * Pillow (PIL fork)
-  * `python3 -m pip install --upgrade pip`
   * `python3 -m pip install --upgrade Pillow`
 ### Setting up
 * Clone this repository
