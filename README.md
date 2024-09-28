@@ -3,6 +3,8 @@
 # Getting Started
 Get this project set up locally
 ### Prerequisites
+* Pip
+  * `python3 -m pip install --upgrade pip`
 * Pillow (PIL fork)
   * `python3 -m pip install --upgrade Pillow`
 ### Setting up
