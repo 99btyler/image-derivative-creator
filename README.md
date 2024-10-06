@@ -1,5 +1,5 @@
 # image-derivative-creator
-
+Resize an image to multiple sizes
 # Getting Started
 Get this project set up locally
 ### Prerequisites
